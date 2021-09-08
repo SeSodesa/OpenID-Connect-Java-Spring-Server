@@ -11,7 +11,7 @@ More information about the project can be found:
 
 * [The project homepage on GitHub (with related projects)](https://github.com/mitreid-connect/)
 * [Full documentation](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/wiki)
-* [Documentation for the Maven project and Java API](http://mitreid-connect.github.com/)
+* [Documentation for the Maven project and Java API](http://mitreid-connect.github.io/)
 * [Issue tracker (for bug reports and support requests)](https://github.com/mitreid-connect/OpenID-Connect-Java-Spring-Server/issues)
 * The mailing list for the project can be found at `mitreid-connect@mit.edu`, with [archives available online](https://mailman.mit.edu/mailman/listinfo/mitreid-connect).
 
